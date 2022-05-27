@@ -1,1 +1,3 @@
 # git-test
+
+vim merge
